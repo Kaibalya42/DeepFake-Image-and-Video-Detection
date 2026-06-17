@@ -100,6 +100,4 @@ Key training settings: image size 224×224, batch size 64, 20 epochs (3 warmup),
 | Training & evaluation pipeline | Kaggle Notebooks (GPU T4) or Google Colab | Attach/upload the datasets, set the input paths, run top to bottom |
 | Saved checkpoints (`.pth`) & graphs | Local / Kaggle `working` directory | Not committed to the repo — regenerate by re-running the notebook |
 
-## Licence
 
-This repository does not yet include a license file. Add a `LICENSE` (e.g. MIT) if you plan to open-source the project.
